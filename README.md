@@ -1,5 +1,6 @@
 # SQL Data Warehouse Project: Sales Insights
 
+
 ## Overview
 A SQL-only Data Warehouse Project simulating a Sales Transaction dataset to showcase Data Modeling (Star Schema), ETL processes, Analytical Views, and Time Intelligence Queries.
 
